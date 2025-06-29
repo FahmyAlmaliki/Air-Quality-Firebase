@@ -2,7 +2,7 @@
   ==========================================
   🌫️ Air Quality Monitoring System (ESP8266)
   ==========================================
-  Author     : [Nama Anda]
+  Author     : FahmyAlmaliki
   Hardware   : NodeMCU ESP8266, DHT22, MQ-135, LCD I2C
   Features   :
     - Monitoring suhu, kelembaban, dan kualitas udara
